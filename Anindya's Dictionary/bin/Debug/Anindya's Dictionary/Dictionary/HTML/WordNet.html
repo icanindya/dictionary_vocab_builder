@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+
+li 
+{
+	list-style-type: none;
+	margin-left: 20px;
+	margin-bottom: 5px;
+    background: url('add.png') no-repeat 0px 5px transparent;
+	padding: 0px 0px 0px 3px;
+}
+
+.pos{
+	color: green;
+	font-size: 12pt;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Times New Roman;
+	margin-right: 5px;
+	text-decoration: underline;
+	padding-bottom: 5px;
+	display:inline;
+	
+	background: url('bullet.png') no-repeat 0px 5px transparent;
+	padding: 0px 0px 0px 15px;
+}
+
+.text{
+	display: inline;
+}
+
+.example{
+	display: block;
+	color: #2509DB;
+	font-size: 12pt;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Times New Roman;
+	margin-left: 15px;
+}
+
+
+</style>
+
+<script src="../JS/jquery-1.9.1.min.js"></script>
+<script>
+	function showContent(content){
+		$('body').html(content);
+		design();
+	}
+	function design(){
+		$('.pos').append(':');
+		
+		//$('.pos').before('<span class="pos-bullet">v</span>');
+		$('.rel-term').append(';');
+		$('.example').prepend('- ');
+		$('.rel-label').append(': ');
+		$('.syn-term:not(:last)').append(',');
+		
+	}
+</script>
+</head>
+<body>
+</body>
+</html>

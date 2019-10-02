@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+strong{
+	background: url('bullet.png') no-repeat 0px 5px transparent;
+	padding: 0px 0px 0px 15px;
+}
+body{
+	font-family: "SolaimanLipi";
+	font-size: 12pt;
+	text-align: justify;
+}
+</style>
+<script src="../JS/jquery-1.9.1.min.js"></script>
+<script>
+function showContent(content){
+	$('body').html(content);
+	design();
+}
+function design(){
+	$('.pos, .syn').append(':');
+	$('.word').append(':');
+}
+</script>
+</head>
+<body>
+</body>
+</html>

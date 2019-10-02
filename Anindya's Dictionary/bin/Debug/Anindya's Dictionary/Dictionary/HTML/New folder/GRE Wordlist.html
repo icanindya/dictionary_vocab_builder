@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+
+body{
+	margin: 0px;
+}
+
+.section{
+	margin-bottom: 10px;
+}
+
+.heading{
+	display: block;
+	background: #D6EBFF;
+	color: black;
+	padding-left: 2px;
+	font-weight: bold;
+}
+
+
+ul {
+  list-style: none;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+}
+
+li 
+{
+	margin-left: 5px;
+    background: url('add.png') no-repeat 0px 5px transparent;
+	padding: 0px 0px 0px 15px;
+}
+
+img{
+	border: solid 3px #eeeee;
+	margin: 2px;
+}
+
+.word{
+	display: block;
+	font-weight: bold;
+	font-family: Arial;
+	font-size: 11pt;
+	
+	margin-left: 5px;
+    background: url('arrow-pink.png') no-repeat 0px 3px transparent;
+	padding: 0px 0px 0px 20px;
+	
+}
+
+.bar-meaning-label{
+	font-weight: bold;
+	font-size: 12pt;
+	color: red;
+	margin-right: 3px;
+	display: block;
+	float: left;
+	
+	margin-left: 5px;
+    background: url('star.png') no-repeat 0px 5px transparent;
+	padding: 0px 0px 0px 15px;
+}
+
+.bar-meaning{
+	color: #000099;
+	font-size: 13pt;
+	font-style: normal;
+	display: inline-block;
+	margin-bottom: 5px;
+}
+
+.bar-sentence-label{
+	font-weight: bold;
+	font-size: 12pt;
+	color: green;
+	display: block;
+	float: left;
+	margin-right: 3px;
+	
+	margin-left: 5px;
+    background: url('star.png') no-repeat 0px 5px transparent;
+	padding: 0px 0px 0px 15px;
+}
+
+.bar-sentence{
+	color: black;
+	font-size: 13pt;
+	font-style: normal;
+	display: inline-block;
+	margin-bottom: 5px;
+}
+
+
+.bang-pos{
+	color: green;
+	font-size: 13pt;
+	font-weight: bold;
+	font-style: normal;
+	display: block;
+	float: left;
+	margin-right: 5px;
+	
+	margin-left: 5px;
+    background: url('star.png') no-repeat 0px 5px transparent;
+	padding: 0px 0px 0px 15px;
+}
+
+.bang-meaning{
+	color: black;
+	font-size: 12pt;
+	font-style: normal;
+	font-weight: normal;
+	font-family: SolaimanLipi;
+	
+}
+
+.mnemonic{
+	color: black;
+	font-size: 13pt;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Times New Roman;
+	margin-bottom: 5px;
+	display: block;
+}
+
+.synonym-label{
+	font-weight: bold;
+	font-size: 12pt;
+	color: red;
+	margin-right: 3px;
+	display: block;
+	float: left;
+	
+	margin-left: 5px;
+    background: url('star.png') no-repeat 0px 5px transparent;
+	padding: 0px 0px 0px 15px;
+}
+
+.antonym-label{
+	font-weight: bold;
+	font-size: 13pt;
+	color: green;
+	margin-right: 3px;
+	display: block;
+	float: left;
+	
+	margin-left: 5px;
+    background: url('star.png') no-repeat 0px 5px transparent;
+	padding: 0px 0px 0px 15px;
+}
+
+.synonym, .antonym{
+	color: black;
+	font-size: 13pt;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Times New Roman;
+	margin-bottom: 5px;
+	display: inline-block;
+}
+
+.extra-sentence{
+	color: black;
+	font-size: 13pt;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Times New Roman;
+	margin-bottom: 5px;
+}
+
+.bar-sentence u, .extra-sentence u{
+	font-style: italic;
+}
+
+.comp-heading{
+	
+	display: block;
+	color: black;
+	font-weight: bold;
+	background: #D6EBFF;
+}
+
+.comp-bang-meaning{
+
+	color: black;
+	font-size: 12pt;
+	font-style: normal;
+	font-weight: normal;
+	font-family: SolaimanLipi;
+	margin-left: 10px;
+	
+	margin-left: 10px;
+    background: url('add-red.jpg') no-repeat 0px 5px transparent;
+	padding: 0px 0px 0px 15px;
+	
+}
+
+.comp-bar-meaning{
+	color: #000099;
+	font-size: 13pt;
+	font-style: normal;
+	display: inline-block;
+	margin-bottom: 5px;
+	margin-left: 10px;
+	
+	margin-left: 10px;
+    background: url('add-green.jpg') no-repeat 0px 5px transparent;
+	padding: 0px 0px 0px 15px;
+
+}
+
+.comp-bar-sentence{
+	color: black;
+	font-size: 13pt;
+	font-style: normal;
+	display: inline-block;
+	margin-bottom: 5px;
+	margin-left: 10px;
+	
+	margin-left: 10px;
+    background: url('add-blue.jpg') no-repeat 0px 5px transparent;
+	padding: 0px 0px 0px 15px;
+
+}
+
+.comp-word{
+	font-family: Arial;
+	font-size: 11pt;
+	
+	margin-left: 10px;
+    background: url('circle-green.gif') no-repeat 0px 3px transparent;
+	padding: 0px 0px 0px 15px;
+}
+
+.rateit{
+	margin-left: 10px;
+}
+
+</style>
+<link rel="stylesheet" type="text/css" href="./rateit.css">
+<script src="./jquery-1.9.1.min.js"></script>
+<script src="./jquery.rateit.min.js"></script>
+<script>
+function showContent(content){
+	$("html, body").scrollTop(0);
+	$('body').html(content);
+	$('.rateit').rateit();
+}
+$(document).ready(function(){
+
+	$('body').on('rated reset', '.rateit', function (e) {
+		window.external.changeRate($(this).data('word'), $(this).rateit('value'));
+	});
+});
+</script>
+</head>
+<body>
+</body>
+</html>

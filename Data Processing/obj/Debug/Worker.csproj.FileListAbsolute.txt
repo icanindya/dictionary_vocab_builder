@@ -1,0 +1,24 @@
+C:\Users\Anindya\Documents\Visual Studio 2010\Projects\Anindya's Dictionary\Worker\bin\Debug\Worker.exe
+C:\Users\Anindya\Documents\Visual Studio 2010\Projects\Anindya's Dictionary\Worker\bin\Debug\Worker.pdb
+C:\Users\Anindya\Documents\Visual Studio 2010\Projects\Anindya's Dictionary\Worker\obj\Debug\Worker.csprojResolveAssemblyReference.cache
+C:\Users\Anindya\Documents\Visual Studio 2010\Projects\Anindya's Dictionary\Worker\obj\Debug\Worker.exe
+C:\Users\Anindya\Documents\Visual Studio 2010\Projects\Anindya's Dictionary\Worker\obj\Debug\Worker.pdb
+C:\Users\Anindya\Documents\Visual Studio 2010\Projects\Anindya's Dictionary\Worker\obj\Debug\Worker.MainForm.resources
+C:\Users\Anindya\Documents\Visual Studio 2010\Projects\Anindya's Dictionary\Worker\obj\Debug\Worker.csproj.GenerateResource.Cache
+E:\Anindya's Dictionary\Worker\bin\Debug\Worker.exe
+E:\Anindya's Dictionary\Worker\bin\Debug\Worker.pdb
+E:\Anindya's Dictionary\Worker\bin\Debug\HtmlAgilityPack.dll
+E:\Anindya's Dictionary\Worker\bin\Debug\Newtonsoft.Json.dll
+E:\Anindya's Dictionary\Worker\bin\Debug\System.Data.SQLite.dll
+E:\Anindya's Dictionary\Worker\bin\Debug\System.Data.SQLite.xml
+E:\Anindya's Dictionary\Worker\obj\Debug\Worker.csprojResolveAssemblyReference.cache
+E:\Anindya's Dictionary\Worker\obj\Debug\Worker.Form1.resources
+E:\Anindya's Dictionary\Worker\obj\Debug\Anindya_s_Dictionary.TestForm3.resources
+E:\Anindya's Dictionary\Worker\obj\Debug\Anindya_s_Dictionary.MagicTextBox.resources
+E:\Anindya's Dictionary\Worker\obj\Debug\Worker.MainForm.resources
+E:\Anindya's Dictionary\Worker\obj\Debug\Anindya_s_Dictionary.TestForm.resources
+E:\Anindya's Dictionary\Worker\obj\Debug\Anindya_s_Dictionary.TestForm2.resources
+E:\Anindya's Dictionary\Worker\obj\Debug\Worker.csproj.GenerateResource.Cache
+E:\Anindya's Dictionary\Worker\obj\Debug\Worker.exe.licenses
+E:\Anindya's Dictionary\Worker\obj\Debug\Worker.exe
+E:\Anindya's Dictionary\Worker\obj\Debug\Worker.pdb

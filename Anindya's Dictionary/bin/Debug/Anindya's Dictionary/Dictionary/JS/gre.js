@@ -1,0 +1,1 @@
+$(document).ready(function(){	$('.bar-sentence').prepend('<div class="sentences">Additional</div>');});

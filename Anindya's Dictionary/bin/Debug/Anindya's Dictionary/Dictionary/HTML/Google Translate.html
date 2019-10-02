@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style type="text/css">
+.pos{
+	color: green;
+	font-size: 12pt;
+	font-style: normal;
+	font-weight: bold;
+	font-family: Times New Roman;
+	margin-right: 5px;
+	text-decoration: underline;
+	padding-bottom: 5px;
+	
+	background: url('bullet.png') no-repeat 0px 5px transparent;
+	padding: 0px 0px 0px 15px;
+}
+
+.terms{
+	color: black;
+	font-size: 12pt;
+	font-style: normal;
+	font-weight: normal;
+	font-family: SolaimanLipi;
+}
+
+.word{
+	color: black;
+	font-size: 12pt;
+	font-style: normal;
+	font-weight: normal;
+	font-family: SolaimanLipi;
+	margin-right: 5px;
+	
+	background: url('add.png') no-repeat 0px 5px transparent;
+	padding: 0px 0px 0px 15px;
+	
+}
+
+.reverse-translation{
+	color: #2509DB;
+	font-size: 12pt;
+	font-style: normal;
+	font-weight: normal;
+	font-family: Times New Roman;
+}
+
+
+ul{
+	margin-top: 5px;
+	margin-left: 20px;
+	list-style-type: none;
+}
+li{
+	color: green;
+	font-style: italic;
+}
+</style>
+
+<script src="../JS/jquery-1.9.1.min.js"></script>
+<script>
+	function showContent(content){
+		$('body').html(content);
+		design();
+	}
+	function design(){
+		$('.pos, .syn').append(':');
+		$('.word').append(':');
+
+	}
+</script>
+</head>
+<body>
+</body>
+</html>

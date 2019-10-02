@@ -1,0 +1,156 @@
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\System.Data.SQLite.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya's Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya_s_Dictionary.Form1.resources
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya_s_Dictionary.Properties.Resources.resources
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya's Dictionary.csproj.GenerateResource.Cache
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\WordNetClasses.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\WordNetClasses.pdb
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya_s_Dictionary.TestForm.resources
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya_s_Dictionary.GRE_Wordlist.resources
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya_s_Dictionary.DictionaryForm.resources
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\DevExpress.BonusSkins.v12.2.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\DevExpress.Data.v12.2.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\DevExpress.Utils.v12.2.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\DevExpress.XtraBars.v12.2.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\DevExpress.XtraEditors.v12.2.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\DevExpress.XtraLayout.v12.2.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\DevExpress.Data.v12.2.xml
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\DevExpress.Utils.v12.2.xml
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\DevExpress.XtraBars.v12.2.xml
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\DevExpress.XtraEditors.v12.2.xml
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\DevExpress.XtraLayout.v12.2.xml
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\de\DevExpress.Data.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\es\DevExpress.Data.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\ja\DevExpress.Data.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\ru\DevExpress.Data.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\de\DevExpress.Utils.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\es\DevExpress.Utils.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\ja\DevExpress.Utils.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\ru\DevExpress.Utils.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\de\DevExpress.XtraBars.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\es\DevExpress.XtraBars.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\ja\DevExpress.XtraBars.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\ru\DevExpress.XtraBars.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\de\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\es\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\ja\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\ru\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\de\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\es\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\ja\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\ru\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya_s_Dictionary.PrefrencesForm.resources
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya_s_Dictionary.SplashScreen1.resources
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya_s_Dictionary.TestForm2.resources
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\Anindya's Dictionary.exe.config
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\Anindya's Dictionary.exe
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\Anindya's Dictionary.pdb
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\DevExpress.BonusSkins.v12.2.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\DevExpress.Data.v12.2.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\DevExpress.Utils.v12.2.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\DevExpress.XtraBars.v12.2.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\DevExpress.XtraEditors.v12.2.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\DevExpress.XtraLayout.v12.2.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\HtmlAgilityPack.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\Newtonsoft.Json.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\System.Data.SQLite.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\WordCapture.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\WordNetClasses.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\DevExpress.Data.v12.2.xml
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\DevExpress.Utils.v12.2.xml
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\DevExpress.XtraBars.v12.2.xml
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\DevExpress.XtraEditors.v12.2.xml
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\DevExpress.XtraLayout.v12.2.xml
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\WordNetClasses.pdb
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\de\DevExpress.Data.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\es\DevExpress.Data.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\ja\DevExpress.Data.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\ru\DevExpress.Data.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\de\DevExpress.Utils.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\es\DevExpress.Utils.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\ja\DevExpress.Utils.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\ru\DevExpress.Utils.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\de\DevExpress.XtraBars.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\es\DevExpress.XtraBars.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\ja\DevExpress.XtraBars.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\ru\DevExpress.XtraBars.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\de\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\es\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\ja\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\ru\DevExpress.XtraEditors.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\de\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\es\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\ja\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug2\ru\DevExpress.XtraLayout.v12.2.resources.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\Anindya's Dictionary.exe.config
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\Anindya's Dictionary.exe
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\Anindya's Dictionary.pdb
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya's Dictionary.exe.licenses
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya's Dictionary.exe
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya's Dictionary.pdb
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\ShaperRater.dll
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya_s_Dictionary.MagicTextBox.resources
+C:\Users\Anindya\Documents\Visual Studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya_s_Dictionary.TestForm3.resources
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya_s_Dictionary.AboutForm.resources
+C:\Users\Anindya\documents\visual studio 2010\Projects\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya_s_Dictionary.SplashScreen2.resources
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\x64\SQLite.Interop.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\x86\SQLite.Interop.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\Anindya's Dictionary.exe.config
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\Anindya's Dictionary.exe
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\Anindya's Dictionary.pdb
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\DevExpress.BonusSkins.v13.2.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\DevExpress.Data.v13.2.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\DevExpress.Utils.v13.2.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\DevExpress.XtraBars.v13.2.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\DevExpress.XtraEditors.v13.2.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\DevExpress.XtraLayout.v13.2.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\DevExpress.XtraPrinting.v13.2.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\EntityFramework.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\EntityFramework.SqlServer.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\System.Data.SQLite.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\System.Data.SQLite.EF6.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\System.Data.SQLite.Linq.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\DevExpress.Data.v13.2.xml
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\DevExpress.Utils.v13.2.xml
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\DevExpress.XtraBars.v13.2.xml
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\DevExpress.XtraEditors.v13.2.xml
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\DevExpress.XtraPrinting.v13.2.xml
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\DevExpress.XtraLayout.v13.2.xml
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\EntityFramework.xml
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\EntityFramework.SqlServer.xml
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\System.Data.SQLite.xml
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\de\DevExpress.Data.v13.2.resources.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\es\DevExpress.Data.v13.2.resources.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\ja\DevExpress.Data.v13.2.resources.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\ru\DevExpress.Data.v13.2.resources.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\de\DevExpress.Utils.v13.2.resources.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\es\DevExpress.Utils.v13.2.resources.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\ja\DevExpress.Utils.v13.2.resources.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\ru\DevExpress.Utils.v13.2.resources.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\de\DevExpress.XtraBars.v13.2.resources.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\es\DevExpress.XtraBars.v13.2.resources.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\ja\DevExpress.XtraBars.v13.2.resources.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\ru\DevExpress.XtraBars.v13.2.resources.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\de\DevExpress.XtraEditors.v13.2.resources.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\es\DevExpress.XtraEditors.v13.2.resources.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\ja\DevExpress.XtraEditors.v13.2.resources.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\ru\DevExpress.XtraEditors.v13.2.resources.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\de\DevExpress.XtraPrinting.v13.2.resources.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\es\DevExpress.XtraPrinting.v13.2.resources.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\ja\DevExpress.XtraPrinting.v13.2.resources.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\ru\DevExpress.XtraPrinting.v13.2.resources.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\de\DevExpress.XtraLayout.v13.2.resources.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\es\DevExpress.XtraLayout.v13.2.resources.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\ja\DevExpress.XtraLayout.v13.2.resources.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\bin\Debug\ru\DevExpress.XtraLayout.v13.2.resources.dll
+E:\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya's Dictionary.csprojResolveAssemblyReference.cache
+E:\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya_s_Dictionary.AboutForm.resources
+E:\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya_s_Dictionary.DictionaryForm.resources
+E:\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya_s_Dictionary.SettingsForm.resources
+E:\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya_s_Dictionary.Properties.Resources.resources
+E:\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya's Dictionary.csproj.GenerateResource.Cache
+E:\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya's Dictionary.exe.licenses
+E:\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya's Dictionary.exe
+E:\Anindya's Dictionary\Anindya's Dictionary\obj\Debug\Anindya's Dictionary.pdb
